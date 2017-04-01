@@ -1,0 +1,53 @@
+body {
+    background-color: #a7a7a7 !important;
+}
+
+p {
+    font-family: sans-serif;
+    font-size: 24px;
+}
+
+#wrapper {
+    text-align: center;
+    margin: 40px;
+    border: 1px solid #333;
+    border-radius: 2%;
+    background-color: rgb(148, 244, 211);
+}
+
+i {
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+#hero {
+    width: 500px;
+    height: 600px;
+    margin: 20px;
+}
+
+figcaption {
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+main {
+    margin: 50px;
+}
+
+.timeline {
+    margin: 0 100px 0 100px;
+    text-align: left;
+}
+
+ul li {
+    font-size: 18px;
+}
+
+main blockquote {
+    margin: 50px;
+}
+
+footer {
+    padding: 20px;
+}
