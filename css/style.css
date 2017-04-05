@@ -1,0 +1,53 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    font-size: 24px;
+}
+
+/* Col-xs-12 wrapper */
+#wrapper {
+    background-color: #fff;
+}
+
+/* Container for content */
+.container {
+    background-color: rgba(0, 128, 128, 0.47);
+    margin-top: 10px;
+    border-radius: 6px;
+    overflow: hidden;
+    padding: 30px;
+}
+
+img {
+    max-height: 500px;
+    margin: 20px;
+}
+
+figcaption {
+    font-size: 16px;
+}
+
+main {
+    padding: 10px;
+}
+
+.timeline {
+    padding: 15px;
+}
+
+ul li {
+    font-size: 16px;
+}
+
+blockquote {
+    line-height: 1.5;
+}
+
+/* Footer */
+footer {
+    padding-bottom: 15px;
+}
