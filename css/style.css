@@ -4,6 +4,10 @@ body {
     padding: 0;
 }
 
+h1 {
+    font-size: 56px;
+}
+
 p {
     font-size: 24px;
 }
@@ -22,6 +26,10 @@ p {
     padding: 30px;
 }
 
+.lead {
+    font-size: 26px;
+}
+
 figure {
     background-color: #fff;
     border-radius: 6px;
@@ -38,12 +46,8 @@ figcaption {
     padding: 10px 0;
 }
 
-main {
-    padding: 10px;
-}
-
 .timeline {
-    padding: 15px;
+    padding: 10px;
 }
 
 ul li {
